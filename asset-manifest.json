@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/AdventCalendar/static/css/main.51ebc7f8.chunk.css",
-    "main.js": "/AdventCalendar/static/js/main.2eba0048.chunk.js",
-    "main.js.map": "/AdventCalendar/static/js/main.2eba0048.chunk.js.map",
+    "main.css": "/AdventCalendar/static/css/main.faa66c14.chunk.css",
+    "main.js": "/AdventCalendar/static/js/main.7de85c03.chunk.js",
+    "main.js.map": "/AdventCalendar/static/js/main.7de85c03.chunk.js.map",
     "runtime-main.js": "/AdventCalendar/static/js/runtime-main.667a42c0.js",
     "runtime-main.js.map": "/AdventCalendar/static/js/runtime-main.667a42c0.js.map",
     "static/css/2.9d6f32cf.chunk.css": "/AdventCalendar/static/css/2.9d6f32cf.chunk.css",
-    "static/js/2.9fcb7085.chunk.js": "/AdventCalendar/static/js/2.9fcb7085.chunk.js",
-    "static/js/2.9fcb7085.chunk.js.map": "/AdventCalendar/static/js/2.9fcb7085.chunk.js.map",
+    "static/js/2.6596edac.chunk.js": "/AdventCalendar/static/js/2.6596edac.chunk.js",
+    "static/js/2.6596edac.chunk.js.map": "/AdventCalendar/static/js/2.6596edac.chunk.js.map",
     "index.html": "/AdventCalendar/index.html",
-    "precache-manifest.4a287ebb0ed0207f7579ff4309db15d2.js": "/AdventCalendar/precache-manifest.4a287ebb0ed0207f7579ff4309db15d2.js",
+    "precache-manifest.508a56420b17f22560c1022deed157c9.js": "/AdventCalendar/precache-manifest.508a56420b17f22560c1022deed157c9.js",
     "service-worker.js": "/AdventCalendar/service-worker.js",
     "static/css/2.9d6f32cf.chunk.css.map": "/AdventCalendar/static/css/2.9d6f32cf.chunk.css.map",
-    "static/css/main.51ebc7f8.chunk.css.map": "/AdventCalendar/static/css/main.51ebc7f8.chunk.css.map",
-    "static/js/2.9fcb7085.chunk.js.LICENSE.txt": "/AdventCalendar/static/js/2.9fcb7085.chunk.js.LICENSE.txt"
+    "static/css/main.faa66c14.chunk.css.map": "/AdventCalendar/static/css/main.faa66c14.chunk.css.map",
+    "static/js/2.6596edac.chunk.js.LICENSE.txt": "/AdventCalendar/static/js/2.6596edac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.667a42c0.js",
     "static/css/2.9d6f32cf.chunk.css",
-    "static/js/2.9fcb7085.chunk.js",
-    "static/css/main.51ebc7f8.chunk.css",
-    "static/js/main.2eba0048.chunk.js"
+    "static/js/2.6596edac.chunk.js",
+    "static/css/main.faa66c14.chunk.css",
+    "static/js/main.7de85c03.chunk.js"
   ]
 }
